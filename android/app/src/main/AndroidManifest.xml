@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.mygitsite.ubiquitous_fortnight">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="ubiquitous_fortnight"
         android:name="${applicationName}"
